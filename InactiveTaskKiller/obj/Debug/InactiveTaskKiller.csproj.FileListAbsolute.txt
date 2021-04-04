@@ -1,0 +1,10 @@
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.csprojAssemblyReference.cache
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.InactiveTaskKiller.resources
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.Properties.Resources.resources
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.csproj.GenerateResource.cache
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.csproj.CoreCompileInputs.cache
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\bin\Debug\InactiveTaskKiller.exe.config
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\bin\Debug\InactiveTaskKiller.exe
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\bin\Debug\InactiveTaskKiller.pdb
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.exe
+D:\Desktop\InactiveTaskKiller\InactiveTaskKiller\InactiveTaskKiller\obj\Debug\InactiveTaskKiller.pdb
